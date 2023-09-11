@@ -1,0 +1,13 @@
+task1
+
+
+mkdir homework1
+cat>file1
+cat>file2
+cat file1 file2 > file_1-2
+cat file1-2
+mv file1-2 TASK_DONE
+
+
+task2
+
